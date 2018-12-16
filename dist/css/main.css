@@ -24,7 +24,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: 0.95;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -52,12 +52,11 @@
     transition: all 0.5s ease-out; }
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
-    .menu-branding .portrait {
+    .menu-branding .portrait-image {
+      border-radius: 100%;
+      border: solid 3px #eece1a;
       width: 250px;
-      height: 250px;
-      background: url("../img/jmcintosh.jpg");
-      border-radius: 50%;
-      border: solid 3px #eece1a; }
+      height: 250px; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
