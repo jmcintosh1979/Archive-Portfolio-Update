@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/jmcintosh1979/Portfolio-Update/issues"
   },
-  "homepage": "https://github.com/jmcintosh1979/Portfolio-Update#readme",
+  "homepage": "https://github.com/jmcintosh1979/Portfolio-Update/",
   "dependencies": {
     "node-sass": "^4.11.0"
   }
