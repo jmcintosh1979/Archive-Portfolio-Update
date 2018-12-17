@@ -181,7 +181,8 @@ main {
   grid-gap: .7rem;
   grid-template-columns: repeat(3, 1fr); }
   .projects-info img {
-    width: 100%;
+    width: 320px;
+    height: 320px;
     border: 3px #fff solid; }
     .projects-info img:hover {
       opacity: 0.5;
